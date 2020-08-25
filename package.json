@@ -1,0 +1,23 @@
+{
+  "name": "e",
+  "version": "1.0.0",
+  "description": "literally just e",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerpehDoge/e.git"
+  },
+  "keywords": [
+    "e"
+  ],
+  "author": "DerpehDoge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DerpehDoge/e/issues"
+  },
+  "homepage": "https://github.com/DerpehDoge/e#readme"
+}
